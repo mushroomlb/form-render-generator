@@ -6,8 +6,8 @@
 ## Install
 
 ```sh
-npm install ts-hi
-yarn add ts-hi
+npm install form-render-generator
+yarn add form-render-generator
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ yarn add ts-hi
 ### Typescript
 
 ```sh
-import { add } from 'ts-hi';
+import { add } from 'form-render-generator';
 
 console.log(add(1, 2));
 ```
@@ -23,7 +23,7 @@ console.log(add(1, 2));
 ### javascript
 
 ```sh
-import add = require('ts-hi).add;
+import add = require('form-render-generator).add;
 
 console.log(add(1, 2));
 ```
