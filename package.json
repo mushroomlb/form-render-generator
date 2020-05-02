@@ -2,7 +2,7 @@
   "name": "form-render-generator",
   "version": "0.1.0",
   "description": "form-render-generator",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "mocha --reporter spec",
